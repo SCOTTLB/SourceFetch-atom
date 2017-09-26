@@ -1,5 +1,9 @@
 # sourcefetch package
 
-A short description of your package.
+My implementation of the sourcefetch package for atom
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+manual install by downloading the package (stick it in ~/.atom/packages), cd to it and run 'npm install' or 'apm link'
+
+TODO: Try install
+
+
